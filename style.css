@@ -1,0 +1,67 @@
+.bg-danger {
+   background: black;
+    height: 800px;
+    width: 1720px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(rampage.jpg);
+    background-size: 100% 100%;
+ 
+    
+}
+ 
+.shapka{
+   background: black;
+    height: 155px;
+    width: 1900px;
+    display: flex;
+}
+    
+
+.textdecoreishen{
+   
+    text-decoration: none;
+ margin-left: 65px;
+        color: white;
+        padding: 30px 40px;
+        border-radius: 10px;
+        font-family: 'Montserrat', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 6px;
+        background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+        background-size: 220% auto;
+        box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+       transition: .5s;
+      } 
+
+
+.textdecoreishen2{
+   
+    text-decoration: none;
+ margin-left: 65px;
+        color: white;
+        padding: 30px 70px;
+        border-radius: 10px;
+        font-family: 'Montserrat', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 6px;
+        background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+        background-size: 220% auto;
+        box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+       transition: .5s;
+      } 
+.geroi{
+   background: white;
+
+height: 300px;
+width: 1720px;
+margin-top: 20px;
+margin-right: auto;
+margin-left: auto; 
+
+}
+.akter{
+   background: red;
+   height: 185px;
+   width: 245px
+}
